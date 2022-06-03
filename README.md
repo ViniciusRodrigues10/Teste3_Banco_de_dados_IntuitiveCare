@@ -55,6 +55,8 @@ Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECI
 
 - `pandas`
 
+### Toda a preparação dos dados foi realizado no Jupyter notebook
+
 ### Criando banco de dados e selecionando o banco que desejamos utilizar  
 
     CREATE DATABASE teste3_IntutiveCare;
