@@ -51,7 +51,7 @@ Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECI
 
 - `Funcionalidade 3`: Realizar pesquisa no banco de dados 
 
-## 📚: Bibliotecas utilizada
+## 📚: Bibliotecas utilizadas
 
 - `pandas`
 
@@ -63,7 +63,7 @@ Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECI
     
     USE teste3_IntutiveCare;
     
-### Criando queries para gerar tabela com as colunas necessárias para o arquivo csv
+### Criando query para gerar tabela com as colunas necessárias para o arquivo csv
 
     CREATE TABLE IF NOT EXISTS tbl_dados(
       id INT NULL,
@@ -108,7 +108,7 @@ Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECI
 
 ### Principais dificuldades 
 
-A maior dificuldade está na codificação do cvs, não consegui encontrar a codificação adequada para ler o arquivo, devido a isso não possível realizar a pesquisa por "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" 
+A maior dificuldade que encontrei está na codificação do cvs, não consegui encontrar a codificação adequada para ler o arquivo, devido a isso não foi possível realizar a pesquisa por "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" 
 
 ## Autor
 
