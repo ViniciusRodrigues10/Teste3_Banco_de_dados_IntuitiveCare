@@ -39,7 +39,7 @@ Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECI
 
 - `Jupyter notebook`
 
-- `MySQL workbench 8.0
+- `MySQL workbench 8.0`
 
 - `Git & Github`
 
